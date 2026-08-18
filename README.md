@@ -24,3 +24,23 @@ This repository demonstrates GitHub version control.
 
 \- README documentation
 
+\## Login Module
+
+
+
+The Login Module provides user authentication functionality.
+
+
+
+\### Features
+
+
+
+\- User login
+
+\- Username and password validation
+
+\- Authentication
+
+\- Secure access
+
