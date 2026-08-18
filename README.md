@@ -2,7 +2,7 @@
 
 
 
-This repository demonstrates GitHub version control.
+This repository demonstrates GitHub collaboration and version control.
 
 
 
