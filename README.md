@@ -2,9 +2,7 @@
 
 
 
-This repository demonstrates GitHub version control.
-
-
+This repository demonstrates GitHub project management.
 
 \## Features
 
